@@ -1,2 +1,2 @@
-# Information-Retrieval
-This repository contains my assignments inspired from information retrieval course during my undergraduate studies.
+# Personal Project
+This repository contains the side projects i do in my free time
